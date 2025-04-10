@@ -38,7 +38,6 @@
     </style>
 </head>
 <body>
-
     <table>
         <caption>FIDE Top Player</caption>
         <thead>
@@ -60,6 +59,5 @@
             </tr>
         </tbody>
     </table>
-
 </body>
 </html>
