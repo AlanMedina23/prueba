@@ -56,6 +56,13 @@
                 <td>2837</td>
                 <td>1990-11-30</td>
             </tr>
+            <tr>
+                <td>2</td>
+                <td>Christopher Hikaru Nakamura</td>
+                <td>Estados Unidos</td>
+                <td>2804</td>
+                <td>1987-12-09</td>
+            </tr>
         </tbody>
     </table>
 </body>
